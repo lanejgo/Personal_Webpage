@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: "DejaVu Sans", sans-serif;
+    font-size: larger;
+}
+.header {
+    background-color: #0086b3;
+    padding: 1em;    
+}
+.body {
+    margin: 2em;
+    display: inline-flex;
+}
+h1 {
+    font-family: Didot, Didot LT STD, Hoefler Text, Garamond, serif;
+}
+img, div {
+    margin: 1em;
+}
